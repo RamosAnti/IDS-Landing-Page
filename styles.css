@@ -5,13 +5,13 @@
 body {
     margin: 0;
     font-family: system-ui, sans-serif;
-    color: #183153;
+    color: #b4bdcb;
 }
 
 header,
 footer {
     padding: 1rem 7vw;
-    background: #102a43;
+    background: #2b0202;
     color: white;
 }
 
@@ -33,7 +33,7 @@ footer {
     padding: .8rem 1.2rem;
     color: white;
     background:
-        #0b78a5;
+        #5b1010e8;
     border-radius: .6rem;
     text-decoration: none;
 }
